@@ -1,0 +1,6 @@
+{
+  "name": "Creator Planner Pro by Today Style 2100",
+  "description": "All-in-one Notion & Google Sheets hybrid content operating system by Today Style 2100 with multi-platform feed review, smart calendar, idea bank, finance & ROI tracker, and Gemini AI studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
